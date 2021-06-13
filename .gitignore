@@ -1,5 +1,7 @@
 *.ao
 .DS_Store
+.env
+.vscode
 build
 compiled.json
 compose
