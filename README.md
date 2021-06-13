@@ -11,7 +11,8 @@ Follow the steps below to download, install, and run this project.
 
 Install these prerequisites to follow along with the tutorial. See free video tutorial or a full explanation of each prerequisite.
 
--   NPM: https://nodejs.org
+-   NodeJS: https://nodejs.org
+-   Yarn: https://yarnpkg.com/
 -   Truffle: https://github.com/trufflesuite/truffle
 -   Ganache: http://truffleframework.com/ganache/
 -   Metamask: https://metamask.io/
@@ -24,7 +25,7 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 
 ```
 $ cd election
-$ npm install
+$ yarn
 ```
 
 ## Step 3. Start Ganache
@@ -46,7 +47,7 @@ See free video tutorial for full explanation of these steps:
 
 ## Step 6. Run the Front End Application
 
-`$ npm run dev`
+`$ yarn dev`
 Visit this URL in your browser: http://localhost:3000
 
 If you get stuck, please reference the free video tutorial.
